@@ -2,6 +2,10 @@ h1 {
     font-family: monospace;
 }
 
+pre {
+    font-size: 12em;
+}
+
 .dm-mono-light {
     font-family: "DM Mono", monospace;
     font-weight: 300;
