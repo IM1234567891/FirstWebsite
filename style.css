@@ -1,9 +1,5 @@
 h1 {
-    font-family: monospace;
-}
-
-p {
-    font-size: 12em;
+    font-family: "DM Mono", monospace;
 }
 
 .dm-mono-light {
